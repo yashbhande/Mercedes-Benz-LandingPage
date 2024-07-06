@@ -1,6 +1,6 @@
 # Mercedes-Benz-LandingPage
 🚗 Mercedes-Benz Landing Page
-Visit the live site: Mercedes-Benz Landing Page
+Visit the live site: https://yashbhande.github.io/Mercedes-Benz-LandingPage/
 
 📖 Overview
 A stylish landing page for Mercedes-Benz, showcasing various models with an elegant and responsive design.
